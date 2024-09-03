@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nishil10
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning algorithms using pandas pd
+- 👀 I’m interested in blockchains
 - 💞️ I’m looking to collaborate on intermediate python projects
 - 😄 Pronouns: he/him
 
